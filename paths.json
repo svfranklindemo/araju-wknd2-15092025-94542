@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json",
-    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/araju-araju-2025-9-15-15-15-26/language-masters/en:/",
+    "/content/araju-araju-2025-9-15-15-15-26/language-masters/en/:/",
+    "/content/araju-araju-2025-9-15-15-15-26/language-masters/en/:/en/",
+    "/content/araju-araju-2025-9-15-15-15-26/configuration:/.helix/config.json",
+    "/content/araju-araju-2025-9-15-15-15-26/metadata:/metadata.json",
+    "/content/araju-araju-2025-9-15-15-15-26/redirects:/redirects.json",
+    "/content/araju-araju-2025-9-15-15-15-26/placeholders:/placeholders.json",
+    "/content/araju-araju-2025-9-15-15-15-26.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/araju-araju-2025-9-15-15-15-26/",
+    "/content/dam/araju-araju-2025-9-15-15-15-26/"
   ]
 }
